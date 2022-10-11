@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "ddb855ac-2a90-430d-9dd5-739f579a767d",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://localhost:3000",
+    "url": "127.0.0.1:3000/api/multiplicacion/2",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-10-11T02:06:21.603Z",
+    "modified": "2022-10-11T03:50:46.520Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"arreglo\": [1,3,6,4,2]\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
